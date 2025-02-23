@@ -10,9 +10,17 @@ h1 {
     margin-left: 40px;
 }
 
+h2 {
+    color:white;
+}
+
 p {
     font-family: "Funnel Sans", sans-serif;
     color:white;
+}
+
+#chooseMove {
+    color: white;
 }
 
 .game-area {
